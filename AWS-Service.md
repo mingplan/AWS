@@ -1,6 +1,6 @@
 ﻿# AWS Service
 
-标签（空格分隔）： AWS Service
+tag ： AWS Service
 
 ---
 
