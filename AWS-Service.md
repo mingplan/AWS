@@ -4,7 +4,7 @@
 
 ---
 
-##Service List
+## Service List
 
  - AWS Certificate Manager
  - CodeFormation
@@ -83,7 +83,7 @@
  - Amazon WorkSpaces 
  - AWS X-Ray
 
-##Service Group
+## Service Group
 ### Compute
 
  - EC2
@@ -95,18 +95,18 @@
  - Elastic Beanstalk
  - Lambda
  - Batch
-###Storage
+### Storage
  - S3
  - Elastic Block Store
  - EFS
  - Glacier
  - Storage Gateway
-###Database
+### Database
  - RDS
  - DynamoDB
  - ElasticCache
  - Amazon redshift
-###Networking & Content Delivery
+### Networking & Content Delivery
  - VPC
  - CloudFront
  - Direct Connect
