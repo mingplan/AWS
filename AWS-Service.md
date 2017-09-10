@@ -111,20 +111,20 @@
  - CloudFront
  - Direct Connect
  - Route 53
-###Migration
+### Migration
  - AWS Migration Hub
  - Application Discovery Service
  - Database Migration Service
  - Server Migration Service
  - Snowball
-###Developer Tools
+### Developer Tools
  - CodeStar
  - CodeCommit
  - CodeBuild
  - CodeDeploy
  - CodePipeline
  - X-Ray
-###Management Tools
+### Management Tools
  - CloudWatch
  - CloudFormation
  - CloudTrail
@@ -133,7 +133,7 @@
  - Service Catalog
  - Trusted Advisor
  - Managed Services
-###Security, Identity & Compliance
+### Security, Identity & Compliance
  - IAM
  - Inspector
  - Certificate Manager
@@ -142,7 +142,7 @@
  - Artifact
  - Amazon Macie
  - CloudHSM
-###Analytics
+### Analytics
  - Athena
  - EMR
  - CloudSearch
@@ -151,43 +151,43 @@
  - Data Pipeline
  - QuickSight
  - AWS Glue
-###Artificial Intelligence
+### Artificial Intelligence
  - Lex
  - Amazon Polly
  - Rekognition
  - Machine Learning
-###Internet Of Things
+### Internet Of Things
  - AWS IoT
  - AWS Greengrass
-###Contact Conter
+### Contact Conter
  - Amazon Connect
-###Game Development
+### Game Development
  - Amazon gameLift
-###Mobile Services
+### Mobile Services
  - Mobile Hub
  - Cognito
  - Device Farm
  - Mobile Analytics
  - Pinpoint
-###Application Services
+### Application Services
  - Step Functions
  - SWF
  - API Gateway
  - Elastic Transcoder
-###Messaging
+### Messaging
  - Simple Queue Service
  - Simple Notification Service
  - Simple Email Service
-###Business Productivity
+### Business Productivity
  - WorkDocs
  - WorkMail
  - Amazon Chime
-###Desktop & App Streaming
+### Desktop & App Streaming
  - WorkSpaces
  - AppStream 2.0
 
 ## Summary Of Each Service
-###EC2
+### EC2
 
 > Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing
 > capacity in the Amazon Web Services (AWS) cloud. Using Amazon EC2
@@ -198,15 +198,15 @@
 > scale up or down to handle changes in requirements or spikes in
 > popularity, reducing your need to forecast traffic.
 
-###ECS
+### ECS
 
 > Amazon EC2 Container Service (Amazon ECS) is a highly scalable, fast, container management service that makes it easy to run, stop, and manage Docker containers on a cluster of Amazon Elastic Compute Cloud (Amazon EC2) instances. Amazon ECS lets you launch and stop container-based applications with simple API calls, allows you to get the state of your cluster from a centralized service, and gives you access to many familiar Amazon EC2 features.
 
-###Lightsail
+### Lightsail
 
 > Virtual private servers made easy.
 
-###Elastic Beanstalk
+### Elastic Beanstalk
 
 > Amazon Web Services (AWS) comprises dozens of services, each of which exposes an area of functionality. While the variety of services offers flexibility for how you want to manage your AWS infrastructure, it can be challenging to figure out which services to use and how to provision them.
 > 
@@ -233,17 +233,17 @@
 > the AWS Command Line Interface (AWS CLI), or eb, a high-level CLI
 > designed specifically for Elastic Beanstalk.
 
-###Lambda
+### Lambda
 
 > AWS Lambda is a compute service that lets you run code without provisioning or managing servers. AWS Lambda executes your code only when needed and scales automatically, from a few requests per day to thousands per second. You pay only for the compute time you consume - there is no charge when your code is not running. With AWS Lambda, you can run code for virtually any type of application or backend service - all with zero administration. AWS Lambda runs your code on a high-availability compute infrastructure and performs all of the administration of the compute resources, including server and operating system maintenance, capacity provisioning and automatic scaling, code monitoring and logging. All you need to do is supply your code in one of the languages that AWS Lambda supports (currently Node.js, Java, C# and Python).
 
-###Batch
+### Batch
 
 > AWS Batch enables you to run batch computing workloads on the AWS Cloud. Batch computing is a common way for developers, scientists, and engineers to access large amounts of compute resources, and AWS Batch removes the undifferentiated heavy lifting of configuring and managing the required infrastructure. AWS Batch is similar to traditional batch computing software. This service can efficiently provision resources in response to jobs submitted in order to eliminate capacity constraints, reduce compute costs, and deliver results quickly.
 > 
 > As a fully managed service, AWS Batch enables developers, scientists, and engineers to run batch computing workloads of any scale. AWS Batch automatically provisions compute resources and optimizes the workload distribution based on the quantity and scale of the workloads. With AWS Batch, there is no need to install or manage batch computing software, which allows you to focus on analyzing results and solving problems. AWS Batch reduces operational complexities, saves time, and reduces costs, which makes it easy for developers, scientists, and engineers to run their batch jobs in the AWS Cloud.
 
-###Auto Scaling
+### Auto Scaling
 
 > Auto Scaling helps you ensure that you have the correct number of Amazon EC2 instances available to handle the load for your application. You create collections of EC2 instances, called Auto Scaling groups. You can specify the minimum number of instances in each Auto Scaling group, and Auto Scaling ensures that your group never goes below this size. You can specify the maximum number of instances in each Auto Scaling group, and Auto Scaling ensures that your group never goes above this size. If you specify the desired capacity, either when you create the group or at any time thereafter, Auto Scaling ensures that your group has this many instances. If you specify scaling policies, then Auto Scaling can launch or terminate instances as demand on your application increases or decreases.
 
