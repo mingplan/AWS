@@ -616,7 +616,7 @@ With file gateway, you can do the following:
 
 > Amazon GameLift is a fully managed service for deploying, operating, and scaling your session-based multiplayer game servers in the cloud. Amazon GameLift replaces the work required to host your own game servers, including buying and setting up hardware, and managing ongoing activity, security, storage, and performance tracking. Amazon GameLift's autoscaling features provide additional protection from having to pay for more resources than you need, while helping to ensure that your players can find and join games fast.
 
-###[AWS Mobile Hub][104]
+### [AWS Mobile Hub][104]
 
 > AWS Mobile Hub provides an integrated console experience that enables you to quickly create and configure powerful mobile app backend features and integrate them into your mobile app. You create a project by selecting features to add to your app.
 
