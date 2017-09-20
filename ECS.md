@@ -1,6 +1,6 @@
 ﻿# ECS
 
-标签（空格分隔）： AWS ECS
+AWS ECS
 
 ---
 
